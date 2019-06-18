@@ -1,0 +1,10 @@
+body{
+    padding-left: 400px;
+    padding-right:300px;
+}
+div{
+    padding:30px;
+    border:solid 2px violet;
+    text-align:center;
+
+}
